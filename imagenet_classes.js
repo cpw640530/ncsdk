@@ -1,4 +1,4 @@
 export const IMAGENET_CLASSRS ={
-hat,
-person
+0: 'hat',
+1: 'person'
 };
